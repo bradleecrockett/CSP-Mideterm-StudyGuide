@@ -17,7 +17,7 @@
 1) How many distinct items can be represented with 4 bits?
 1) How many distinct items can be represented with 5 bits?
 1) Describe what an overflow error is.
-1) Describe what a roundoff error is.
+1) Describe what a round off error is.
 1) Describe what round off error has to do with floating point comparisons in python.
     1) For example `print(5 / 3 == 1 + 2 / 3)`
 
@@ -25,6 +25,7 @@
 ### Digital Representation
 1) ASCII - What is the following message?
 0x41 0x63 0x65 0x20 0b01110100 0b01101000 0b01100101 0b00100000 109 105 100 116 101 114 109
+
 ![ASCII Table](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ASCII-Table-wide.svg/800px-ASCII-Table-wide.svg.png)
 
 1) Compare and contrast analog and digital data.
@@ -35,6 +36,12 @@
 
 1) Describe what Copyright is.
 1) Describe what Fair Use is.
+
+### Need Practice?
+* [[Changing Bits](https://codehs.com/editor/381129/155141/2639/1780)
+* [Bits](https://codehs.com/editor/381106/155141/2639/1780)
+* [Encoding Data](https://codehs.com/editor/381139/155141/2639/1780)
+* [Data Compression](https://codehs.com/quiz/384494/155141/2639/1780?)
 
 
 ## Python
@@ -91,5 +98,21 @@ while not(letter == 'quit'):
 print("Vowels entered were:", vowels)
 
 ````
+
+
+### Need practice
+Look through the CodeHS python quizzes or the following AP Style questions. Note that there are  som differences between the AP Language and the Python language some are outlined in the table below.
+* [Boolean Expressions](https://codehs.com/quiz/381077/155141/2639/1780?)
+* [Algorithms](https://codehs.com/editor/381003/155141/2639/1780)
+* [Missing Code](https://codehs.com/editor/381014/155141/2639/1780)
+* [For Loops](https://codehs.com/editor/381087/155141/2639/1780)
+* [While Loops](https://codehs.com/editor/381051/155141/2639/1780)
     
+| Python | AP Language | Notes |
+|:-----:|:-----:|:-----:|
+|`print()` | DISPLAY() | The AP language does not move to the next line.|
+|`x = 8` | x <- 8 | The assignment operator is a left facing arrow. |
+|`num == 7` | num = 7 | Check for equality is a single equal sing in the AP language.|
+|`for i in range(5)` | REPEAT 5 Times | The AP Language uses a repeat instead of a `for` loop. |
+
 
