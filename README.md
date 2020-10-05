@@ -7,14 +7,14 @@
 | Decimal (Base 10) | Binary (base 2) | Hexadecimal (base 16) |
 |:-----:|:-----:|:---:|
 | 23 |  |  |  
-|  | 0b1001110 |  |  
+|  | 0b01001110 |  |  
 |  |  | 0x2B |  
 | 100 |  |  |  
 |  | 0b00001110 |  |  
 |  |  | 0xA1 |  
 
 ### Representing items
-1) How many distinct items can be represented with 4 bis?
+1) How many distinct items can be represented with 4 bits?
 1) How many distinct items can be represented with 5 bits?
 1) Describe what an overflow error is.
 1) Describe what a roundoff error is.
