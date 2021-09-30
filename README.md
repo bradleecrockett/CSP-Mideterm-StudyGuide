@@ -72,7 +72,7 @@
     * The `in` keyword
     * String methods like `.upper()` and `.lower()`
 * The accumulator algorithm
-````python
+```python
 # Accumulate a number
 # init a counter
 count = 0
@@ -97,8 +97,15 @@ while not(letter == 'quit'):
         print("Not a vowel")
 print("Vowels entered were:", vowels)
 
-````
+```
 
+* Lists
+    * Indexing
+    * Slicing
+    * Methods: These manipulate lists and can change the values contained within a list. They use the dor operator.    
+        * `append(element)`, `sort()`, `index(element)`, insert(index, element)`, `remove(element)`
+    * Functions: These functions *do not* use the dot operator, rather, you pass a list as a parameter into the function. The function then returns a value (or list of values). This does not modify the original list.
+        *  `max(list)`, `min(list)`, `sorted(list)`
 
 ### Need practice
 Look through the CodeHS python quizzes or the following AP Style questions. Note that there are  som differences between the AP Language and the Python language some are outlined in the table below.
