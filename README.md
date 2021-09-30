@@ -38,7 +38,7 @@
 1) Describe what Fair Use is.
 
 ### Need Practice?
-* [[Changing Bits](https://codehs.com/editor/381129/155141/2639/1780)
+* [Changing Bits](https://codehs.com/editor/381129/155141/2639/1780)
 * [Bits](https://codehs.com/editor/381106/155141/2639/1780)
 * [Encoding Data](https://codehs.com/editor/381139/155141/2639/1780)
 * [Data Compression](https://codehs.com/quiz/384494/155141/2639/1780?)
