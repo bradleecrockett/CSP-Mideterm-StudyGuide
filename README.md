@@ -108,7 +108,7 @@ print("Vowels entered were:", vowels)
         *  `max(list)`, `min(list)`, `sorted(list)`
 
 ### Need practice
-Look through the CodeHS python quizzes or the following AP Style questions. Note that there are  som differences between the AP Language and the Python language some are outlined in the table below.
+Look through the CodeHS python quizzes or the following AP Style questions. Note that there are  some differences between the AP Language and the Python language some are outlined in the table below.
 * [Boolean Expressions](https://codehs.com/quiz/381077/155141/2639/1780?)
 * [Algorithms](https://codehs.com/editor/381003/155141/2639/1780)
 * [Missing Code](https://codehs.com/editor/381014/155141/2639/1780)
