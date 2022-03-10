@@ -103,7 +103,7 @@ print("Vowels entered were:", vowels)
     * Indexing
     * Slicing
     * Methods: These manipulate lists and can change the values contained within a list. They use the dor operator.    
-        * `append(element)`, `sort()`, `index(element)`, insert(index, element)`, `remove(element)`
+        * `append(element)`, `sort()`, `index(element)`, `insert(index, element)`, `remove(element)`
     * Functions: These functions **do not** use the dot operator, rather, you pass a list as a parameter into the function. The function then returns a value (or list of values). This does not modify the original list.
         *  `max(list)`, `min(list)`, `sorted(list)`
 
