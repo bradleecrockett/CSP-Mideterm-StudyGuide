@@ -24,7 +24,8 @@
 
 ### Digital Representation
 1) ASCII - What is the following message?
-0x41 0x63 0x65 0x20 0b01110100 0b01101000 0b01100101 0b00100000 109 105 100 116 101 114 109
+
+    `0x41 0x63 0x65 0x20 0b01110100 0b01101000 0b01100101 0b00100000 109 105 100 116 101 114 109`
 
 ![ASCII Table](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ASCII-Table-wide.svg/800px-ASCII-Table-wide.svg.png)
 
